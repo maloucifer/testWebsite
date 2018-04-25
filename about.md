@@ -11,3 +11,7 @@ header-img: "img/about-bg.jpg"
 
 <p>Dummy-website til projekt 2. semester</p>
 <p>Informationsteknologi, digitale medier og interaktionsdesign</p>
+
+!["this is the alternative text"](/img/cauli.jpg)
+
+
