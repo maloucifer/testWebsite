@@ -7,7 +7,7 @@ header-img: "img/about-bg.jpg"
 
 # 
 
-*Projekt* 
+**Projekt** 
 
 <p>Dummy-website til projekt 2. semester</p>
 <p>Informationsteknologi, digitale medier og interaktionsdesign</p>
